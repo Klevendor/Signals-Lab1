@@ -30,6 +30,7 @@ title("Histogram cat.jpg");
 figure;
 imhist(I3);
 title("Histogram ball.png");
+figure;
 
 % Task 6,7
 img_j1 = imadjust(I1);
